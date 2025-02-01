@@ -1,0 +1,18 @@
+com/tikrate/DungeonsLoot/commands/DLTab.java
+ com.tikrate.DungeonsLoot.commands.DLTab
+com/tikrate/DungeonsLoot/manager/LootSettings.java
+ com.tikrate.DungeonsLoot.manager.LootSettings
+ com.tikrate.DungeonsLoot.manager.LootSettings$LootEntry
+com/tikrate/DungeonsLoot/commands/AddLoot.java
+ com.tikrate.DungeonsLoot.commands.AddLoot
+com/tikrate/DungeonsLoot/listeners/LootListener.java
+ com.tikrate.DungeonsLoot.listeners.LootListener
+com/tikrate/DungeonsLoot/commands/SetLoot.java
+ com.tikrate.DungeonsLoot.commands.SetLoot
+com/tikrate/DungeonsLoot/manager/DLManager.java
+ com.tikrate.DungeonsLoot.manager.DLManager
+ com.tikrate.DungeonsLoot.manager.DLManager$LootItem
+com/tikrate/DungeonsLoot/commands/DLCommand.java
+ com.tikrate.DungeonsLoot.commands.DLCommand
+com/tikrate/DungeonsLoot/DLLoot.java
+ com.tikrate.DungeonsLoot.DLLoot

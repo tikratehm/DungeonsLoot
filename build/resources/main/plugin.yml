@@ -1,0 +1,16 @@
+name: DungeonsLoot
+main: com.tikrate.DungeonsLoot.DLLoot
+version: 1.0
+api-version: 1.16
+commands:
+  dungeonsloot:
+    description:
+    aliases: [dl]
+    usage: /<command> [add|set]
+permissions:
+  dungeonsloot.add:
+    description:
+    default: op
+  dungeonsloot.set:
+    description:
+    default: op

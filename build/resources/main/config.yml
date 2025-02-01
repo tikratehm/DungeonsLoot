@@ -1,0 +1,19 @@
+#плагин писал tikrate тг для связи - @javaexploitcom, тгк - @tikrateplugin
+messages:
+  no_permission: "&7[&6DL&7] &cУ вас нет прав на выполнение этой команды"
+  help_header: "&7[&6DL&7] Помощь:"
+  add: "&7[&6DL&7] &7/dl add <мир> <шанс> &f- Добавить предмет"
+  set: "&7[&6DL&7] &7/dl set <мир> <да/нет> &f- Генерировать ли обычный лут?"
+  loot_enabled: '&7[&6DL&7] &7Генерация стандартного &6&nлута&7 для мира &6%world% &a&nуспешно включена&a.'
+  loot_disabled: '&7[&6DL&7] &7Генерация стандартного &6&nлута&7 для мира &6%world% &c&nуспешно отключена&c.'
+  item_chance: '&7[&6DL&7] &7Предмет &6&n%item%&7 успешно добавлен в лут мира &6%world% &7с шансом &6&n%chance%%&6.'
+worlds:
+  world:
+    default-loot: true
+    loot-chances: []
+  world_nether:
+    default-loot: true
+    loot-chances: []
+  world_the_end:
+    default-loot: true
+    loot-chances: []
